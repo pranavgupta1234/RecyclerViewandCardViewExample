@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecyclerView and CardView Example</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_friend">My friends List</string>
+    <string name="name">Name</string>
+    <string name="job">Job</string>
+    <string name="ok">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="gender">Gender</string>
+</resources>
